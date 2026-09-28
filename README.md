@@ -36,9 +36,7 @@ RISC-V 处理器实验项目，包含从零实现的单周期 RV32I 核心。
 
 相关项目：
 
-[Binary-Learning](https://github.com/mio-qwq/Binary-Learning) ·
-[Mio's WAF](https://github.com/mio-qwq/Mio-s-WAF) ·
-[CTF Archive CN](https://github.com/mio-qwq/CTF_Archive_CN)
+[Mio's WAF](https://github.com/mio-qwq/Mio-s-WAF)
 
 ## Tools
 
@@ -52,6 +50,6 @@ RISC-V 处理器实验项目，包含从零实现的单周期 RV32I 核心。
 ## GitHub
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=mio-qwq&show_icons=true&hide_title=true&hide_border=true&theme=transparent" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mio-qwq&layout=compact&hide_border=true&theme=transparent" />
+  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mio-qwq&theme=transparent" />
+  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mio-qwq&theme=transparent" />
 </p>

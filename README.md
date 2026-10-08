@@ -16,6 +16,9 @@
 
 ## Projects
 
+### [SandCore](https://github.com/mio-qwq/SandCore)
+自研 32 位 x86 操作系统，包含分页与抢占式调度、SandFS 文件系统、多用户图形桌面，以及可在系统内使用的 C 编译器、汇编器和调试器。
+
 ### [MioRV](https://github.com/mio-qwq/miorv)
 从零实现的 RV32IMAC RISC-V 处理器，支持 M/S/U 特权级、Sv32、异常与中断，并已通过 RTL 仿真启动 Linux。
 
@@ -37,6 +40,12 @@ RISC-V 处理器实验项目，包含从零实现的单周期 RV32I 核心。
 相关项目：
 
 [Mio's WAF](https://github.com/mio-qwq/Mio-s-WAF)
+
+### [MioCrypt](https://github.com/mio-qwq/MioCrypt)
+PKWCTF2026 Windows x64 逆向题，围绕 Win32 程序、RSA-OAEP 密钥封装和循环 XOR 设计文件加密与逆向分析流程。
+
+### [空城计](https://github.com/mio-qwq/empty-city-ctf)
+PKWCTF2026 Windows x86 逆向题，结合 PE TLS 回调、VEH 异常处理与 XTEA，实现隐藏执行逻辑和输入校验。
 
 ## Tools
 

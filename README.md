@@ -1,6 +1,6 @@
 # mio
 
-计算机科学学生，主要关注计算机体系结构、底层系统与网络安全。
+计算机学生，主要关注计算机体系结构、底层系统与网络安全。
 
 ![Profile Views](https://komarev.com/ghpvc/?username=mio-qwq&style=flat)
 ![GitHub followers](https://img.shields.io/github/followers/mio-qwq?style=flat)

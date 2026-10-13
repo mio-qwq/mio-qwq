@@ -32,17 +32,7 @@ An experimental RISC-V processor project featuring a single-cycle RV32I core bui
 An experimental custom dataflow processor exploring wide-issue execution, speculative execution, branch prediction, state forwarding, and a custom ISA.
 
 ### [Mathematical Research](https://github.com/mio-qwq/math)
-
-An **AI-assisted mathematical research project** addressing published problems in **graph theory, combinatorics, matrix structures, and homological algebra**. The repository collects rigorous proofs, counterexamples to public conjectures, structural results, and reproducible computational evidence.
-
-**Selected work:**
-- **Strong graph products:** A [counterexample to a packing-domination conjecture](https://doi.org/10.5281/zenodo.23293088), with a publicly available preprint, formal proof, and reproducibility materials.
-- **Graph theory:** Results on general position numbers, directed graphs, and packing colorings, including explicit counterexamples, exact formulas, and sharp bounds.
-- **Verification:** [Lean formalizations](https://github.com/mio-qwq/math), computational certificates, and independent AI-agent reviews, with the scope and limitations of each result documented.
-
-[Research results & evidence](https://github.com/mio-qwq/math/blob/main/RESEARCH_RESULTS.md) · [Manuscripts & reproducibility](https://github.com/mio-qwq/math/tree/main/publication)
-
-*The Zenodo paper is a public preprint, not a peer-reviewed journal publication. Additional manuscript drafts are available on GitHub.*
+Research in graph theory, combinatorics, and related areas, with proofs, counterexamples, reproducible computations, and Lean formalizations. A [public preprint](https://doi.org/10.5281/zenodo.23293088) is available on Zenodo; it has **not yet been peer reviewed**.
 
 ## Security
 

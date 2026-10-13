@@ -1,6 +1,6 @@
 # mio
 
-Studying **Intelligent Science and Technology**, with interests in computer architecture, low-level systems, and cybersecurity. I enjoy building systems from scratch and exploring how they work.
+Studying Intelligent Science and Technology, with interests in computer architecture, low-level systems, and cybersecurity. I enjoy building systems from scratch and exploring how they work.
 
 ![Profile Views](https://komarev.com/ghpvc/?username=mio-qwq&style=flat)
 ![GitHub followers](https://img.shields.io/github/followers/mio-qwq?style=flat)
